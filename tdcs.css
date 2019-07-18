@@ -1,0 +1,57 @@
+@charset "UTF-8";
+#manager{
+	position: absolute;
+	top: 30px;
+	left: 96%;
+}
+.logo{
+	position:relative;
+	margin-left: 60px;
+	margin-right: 960px;
+	top:30px;
+}
+#hy{
+	position: absolute;
+	right:43%;
+	top:0px;
+	padding-top: 0px;
+	color: #ee5212;
+
+}
+
+#phone{
+	float:right;
+	position:relative;
+	top: 50px;
+	right: 56px;
+}
+
+h4{
+	text-align:center;
+	}
+#profile{
+	/*border:1px solid #F00;*/
+
+	padding-left:300px;
+	padding-right:300px;
+}
+#yew{
+	margin-left: 0px;
+	color: #6f0e05;
+	font-size:18px
+
+}
+.bt{
+	background-color: #ff411c;
+	color: #fbf8ff;
+	width:130px;
+	margin-left: 0px;
+}
+.zw{
+	margin-left: 0px;
+	width:830px;
+}
+
+html {
+	overflow-x:hidden;
+}
